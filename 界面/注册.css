@@ -1,0 +1,23 @@
+/*基本信息*/
+body {font:12px Tahoma;margin:0px;text-align:center;background:url(颜色.gif) no-repeat;}
+
+/*页面层容器*/
+#container {width:100% }
+
+/*页面头部*/
+#Header {width:1300px;margin:0 auto;height:150px;font-size:40px;}
+
+/*主体*/
+#aaa {width:1300px;margin:0 auto;height:650px;}
+
+/*页面主体*/
+#PageBody {width:600px;margin:0 auto;height:620px;background:url(颜色1.gif) no-repeat;}
+
+/*侧边栏*/
+#Sidebar {width:150px;margin:0 auto;float:left;height:450px;font-size:25px;}
+
+/*主题内容*/
+#MainBody {width:300px;margin:0 auto;float:none;height:450px;font-size:25px;}
+
+/*页面底部*/
+#Footer {width:450px;margin:0 auto;height:30px;}

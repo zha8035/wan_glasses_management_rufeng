@@ -1,0 +1,13 @@
+/*基本信息*/
+body {font:12px Tahoma;margin:0px;text-align:center;background-image: url(C-_Users_Administrator_Desktop_%E8%83%8C%E6%99%AF1.gif)}
+
+/*页面层容器*/
+#container {width:100%}
+
+/*页面头部*/
+#Header {width:800px;margin:0 auto;height:236px;}
+
+/*页面主体*/
+#PageBody {width:800px;margin:0 ;height:190px;}
+/*页面底部*/
+#Footer {width:810px;margin:0 ;height:50px;}
